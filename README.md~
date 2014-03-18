@@ -9,7 +9,7 @@ Gopichand Ranjith Aniket Srinivassuri (GRAS)
 
 
 PHASE1:
-        Lexer && Scanner Implementation
+        Lexer/Scanner Implementation
 
 PHASE2:
 	Parser Implementation        
